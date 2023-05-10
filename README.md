@@ -1,2 +1,2 @@
-# data-science-projects
+# Fraud Detection
 Portfolio for Data Science Project
